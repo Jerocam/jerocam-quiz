@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jerocam-quiz/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/jerocam-quiz/static/js/main.013a715c.chunk.js",
+    "main.js.map": "/jerocam-quiz/static/js/main.013a715c.chunk.js.map",
+    "runtime-main.js": "/jerocam-quiz/static/js/runtime-main.e835c37a.js",
+    "runtime-main.js.map": "/jerocam-quiz/static/js/runtime-main.e835c37a.js.map",
+    "static/js/2.78d58f10.chunk.js": "/jerocam-quiz/static/js/2.78d58f10.chunk.js",
+    "static/js/2.78d58f10.chunk.js.map": "/jerocam-quiz/static/js/2.78d58f10.chunk.js.map",
+    "static/js/3.ed14238c.chunk.js": "/jerocam-quiz/static/js/3.ed14238c.chunk.js",
+    "static/js/3.ed14238c.chunk.js.map": "/jerocam-quiz/static/js/3.ed14238c.chunk.js.map",
+    "index.html": "/jerocam-quiz/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/jerocam-quiz/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.78d58f10.chunk.js.LICENSE.txt": "/jerocam-quiz/static/js/2.78d58f10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e835c37a.js",
+    "static/js/2.78d58f10.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.013a715c.chunk.js"
+  ]
+}
